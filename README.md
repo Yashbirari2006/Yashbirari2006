@@ -1,388 +1,271 @@
-<div align="center">
+👋 Hi, I'm Yash Birari
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=230&section=header&text=Hi%20There,%20I'm%20Yash%20👋&fontSize=40&fontColor=FF6B00&fontAlignY=36&animation=fadeIn&desc=Software%20%26%20Full%20Stack%20Developer%20|%20B.Tech%20IT&descAlignY=53&descSize=18&descColor=E6E6E6"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student+%7C+Diploma+in+IT;Full+Stack+%2B+AI+Application+Developer;Building+LegalEase+%F0%9F%9A%A9+AI+Contract+Analyzer;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Yashbirari2006&color=FF6B00&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Yashbirari2006?label=Followers&style=flat-square&color=FF6B00" />
-
-<a href="https://yash-portfolio-psi-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/yashbirari2006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yashbirari29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Yashbirari2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## 🧭 About Me
-
-```yaml
-whoami: Yash Birari
-education: B.Tech in Information Technology (after Diploma in IT)
-role: Software / Full Stack Developer
-currently_building: LegalEase — AI-powered contract red-flag detector
-learning: DSA · AI/ML · Scalable System Design
-collab_interests: Python · JavaScript · AI apps · Full Stack · Backend
-status: shipping something new, always
-```
-
-- 🎯 Pursuing **B.Tech in Information Technology**, driven by problem-solving and building real-world applications
-- 🔭 Currently building **LegalEase** — an AI contract analyzer that flags risky clauses in legal documents
-- 🌱 Currently deep-diving into **DSA, AI technologies**, and scalable system design
-- 🤝 Open to collaborating on **Python / JS / AI / Full Stack / Backend** open-source projects
-- 💬 Always down to talk hackathons, AI innovations, Android dev, or system design
-- ⚡ Fun fact: hackathons are basically my caffeine
-
-<br/>
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,nextjs,tailwind,php,django,mysql,androidstudio,firebase,git,github,figma,vscode&theme=dark&perline=10" />
-</p>
-
-<div align="center">
-
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6B00?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-FF6B00?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=E6E6E6&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=E6E6E6" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbirari2006&theme=radical&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashbirari2006&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbirari2006&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B00&line=FF6B00&point=E6E6E6" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yashbirari2006/Yashbirari2006/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-> ⚙️ **One-time setup needed** — this animated snake regenerates from your real contribution graph via a GitHub Action. See setup note at the bottom of this reply.
-
-<br/>
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Yashbirari2006/LegalEase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashbirari2006&repo=LegalEase&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=E6E6E6" />
-</a>
-
-**LegalEase** — AI-powered contract red-flag detector that scans rental & legal agreements to catch risky clauses before you sign.
-
-</div>
-
-<br/>
-
-## 💭 Random Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Build Something
-
-<a href="https://yash-portfolio-psi-hazel.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B00?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/yashbirari2006"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=flat-square" /></a>
-<a href="mailto:yashbirari29@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-Say_Hi-D14836?style=flat-square" /></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=100&section=footer"/>
-
----
-
-🗄️ Development & Deployment
+💻 B.Tech IT Student | Full-Stack Developer | Problem Solver | AI Explorer
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="50"/>
-</p>"Git" • "GitHub" • "VS Code" • "Vercel"
+  <img src="https://komarev.com/ghpvc/?username=Yashbirari2006&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p><p align="left">
+  <a href="https://yash-portfolio-psi-hazel.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge" />
+  </a>
+</p>---
+
+👨‍💻 About Me
+
+I'm Yash Birari, a third-year Information Technology student at SVKM's Institute of Technology, Dhule, passionate about software development, problem-solving, and emerging technologies.
+
+I enjoy turning ideas into practical, user-focused applications and continuously improving my skills through projects, hackathons, internships, and hands-on development.
+
+My primary focus is Full-Stack Development, while I also explore AI, cloud technologies, and modern software development practices.
+
+- 🎓 B.Tech in Information Technology — 3rd Year
+- 💻 Full-Stack Development enthusiast
+- 🧠 Interested in DSA & Problem Solving
+- 🤖 Exploring AI & Generative AI
+- ☁️ Exploring Cloud Technologies
+- 🚀 Building practical real-world projects
+- 🤝 Founding Team Member & Technical Team Co-Lead at Apex Coding & Development Club
+- 🌱 Learning continuously. Building consistently.
 
 ---
 
-🤖 Exploring
+🌐 Portfolio
 
-"Artificial Intelligence" • "AI Applications" • "Web3" • "Blockchain"
+<p align="center">
+  <a href="https://yash-portfolio-psi-hazel.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-0A66C2?style=for-the-badge" />
+  </a>
+</p>---
+
+🛠️ Tech Stack
+
+💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
+</p>🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django" />
+</p>🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,nodejs,django" />
+</p>🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>🤖 AI & Emerging Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>🧠 Core Skills
+
+- Data Structures
+- Algorithms
+- Problem Solving
+- Full-Stack Development
+- Web Development
+- Collaboration
+- Leadership
 
 ---
 
-🧠 Core Focus
+📊 GitHub Analytics
 
-JAVA
- ├── Core Programming
- ├── Object-Oriented Programming
- └── Application Development
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&langs_count=8&hide_border=true" />
+</p>---
 
-DSA
- ├── Data Structures
- ├── Algorithms
- └── Problem Solving
+🔥 Contribution Streak
 
-DEVELOPMENT
- ├── Web Applications
- ├── APIs
- └── Real-World Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yashbirari2006&hide_border=true" alt="GitHub Contribution Streak" />
+</p>---
 
-EMERGING TECH
- ├── AI
- ├── Web3
- └── Blockchain
+📈 Contribution Activity
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbirari2006&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>---
 
-"03" // FEATURED PROJECTS
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yashbirari2006&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>---
+
+🚀 Featured Projects
 
 ⚖️ LegalEase
 
-"AI • FULL STACK • IN DEVELOPMENT"
-
 AI-Powered Legal Assistance Platform
 
-LegalEase is an AI-powered legal assistance platform designed to make interaction with legal information and documents more accessible through intelligent workflows.
+An AI-powered platform currently in development, designed to make legal information and document interaction more accessible through intelligent workflows.
 
-Technology
+Tech: "React" "JavaScript" "Python" "AI" "APIs"
 
-"React" "JavaScript" "Python" "AI" "APIs"
-
-Focus
-
-«AI-powered assistance • Legal information • Document interaction • Intelligent workflows»
-
-<div align="left">
-<a href="https://yash-portfolio-psi-hazel.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logoColor=black"/>
-</a>
-</div>---
+---
 
 ⛓️ Gasless Pioneer
 
-"WEB3 • TEAM PROJECT • HACKATHON"
-
 Team-Built Gasless Web3 dApp
 
-Gasless Pioneer is a team-built decentralized application developed during Hack With Mumbai 3.0, focused on simplifying blockchain interactions.
+A team-built gasless decentralized application developed during Hack With Mumbai 3.0, focused on simplifying blockchain interactions.
 
-Technology
-
-"React" "JavaScript" "Base Sepolia" "UGF" "MetaMask"
-
-Focus
-
-«Gasless transactions • Web3 • Blockchain • User-friendly decentralized applications»
-
-<div align="left">
-<a href="https://yash-portfolio-psi-hazel.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logoColor=black"/>
-</a>
-</div>---
-
-<div align="center">🚀 More Projects & Work
-
-<a href="https://yash-portfolio-psi-hazel.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black"/>
-</a></div>---
-
-"04" // CURRENTLY GRINDING
-
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  JAVA                                                        │
-│  ████████████████████████████████████░░░░                   │
-│  Strengthening programming & development                     │
-│                                                              │
-│  DSA                                                         │
-│  ███████████████████████████████░░░░░░░░                    │
-│  Patterns • Algorithms • Problem Solving                     │
-│                                                              │
-│  SOFTWARE DEVELOPMENT                                        │
-│  █████████████████████████████████░░░░░                     │
-│  Building practical applications                             │
-│                                                              │
-│  AI / WEB3                                                    │
-│  ████████████████████████░░░░░░░░░░░░░                      │
-│  Exploring & experimenting                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+Tech: "React" "JavaScript" "Base Sepolia" "UGF" "MetaMask"
 
 ---
 
-"05" // DEVELOPER MINDSET
+<p align="center">
+  <a href="https://github.com/Yashbirari2006?tab=repositories">
+    <img src="https://img.shields.io/badge/📂%20View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>---
 
-                         ┌───────────────┐
-                         │     IDEA      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    EXPLORE    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     BUILD     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     TEST      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    IMPROVE    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     SHIP      │
-                         └───────────────┘
+💼 Experience
 
-«Don't just learn technology. Build with it.»
+🟢 Founding Team Member & Technical Team Co-Lead
+
+Apex Coding & Development Club
+"2026 — Present"
+
+- Contributing to the technical direction of a student-driven coding community
+- Supporting coding and development initiatives
+- Collaborating with the core team
+- Contributing to workshops, events, and technical activities
+- Supporting technical learning and community development
 
 ---
 
-"06" // GITHUB ANALYTICS
+🐍 Python Full Stack Developer — Internship
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&hide_border=true&bg_color=050505&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&hide_border=true&bg_color=050505&title_color=00D9FF&text_color=FFFFFF"/></div>---
+Passion Software Solution
+"Jun 2024 — Jul 2024 | Jalgaon, Maharashtra"
 
-"07" // CONTRIBUTION STREAK
-
-<div align="center"><img width="80%" src="https://streak-stats.demolab.com?user=Yashbirari2006&hide_border=true&background=050505&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/></div>---
-
-"08" // ACTIVITY GRAPH
-
-<div align="center"><img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbirari2006&bg_color=050505&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yash%20Birari%20%E2%80%94%20Contribution%20Graph"/></div>---
-
-"09" // GITHUB TROPHIES
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Yashbirari2006&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/></div>---
-
-"10" // CONTRIBUTION MATRIX
-
-<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/></div>---
-
-"11" // DEVELOPMENT ROADMAP
-
-                         YASH'S ROADMAP
-                              │
-               ┌──────────────┼──────────────┐
-               │              │              │
-               ▼              ▼              ▼
-           JAVA + DSA     DEVELOPMENT     AI / WEB3
-               │              │              │
-               ▼              ▼              ▼
-        Problem Solving   Real Projects   Exploration
-               │              │              │
-               └──────────────┼──────────────┘
-                              │
-                              ▼
-                     SOFTWARE ENGINEER
-
-🎯 Direction
-
-"Strong Fundamentals"
-
-↓
-
-"Better Problem Solving"
-
-↓
-
-"Real-World Projects"
-
-↓
-
-"Industry Ready"
+- Worked with Python and Django
+- Gained practical full-stack development experience
+- Worked on real-world software development tasks
+- Built understanding of web application development workflows
 
 ---
 
-"12" // QUICK TERMINAL
+📊 Data Analyst — Micro-Internship
 
-$ git status
+CSRBOX
+"Nov 2023 | Remote"
 
-On branch learning
-
-Your branch is up to date.
-
-Changes not staged for commit:
-
-  modified: java-skills
-  modified: dsa-practice
-  modified: real-world-projects
-  modified: learning-journey
-
-nothing to commit...
-
-$ echo "Keep building."
-
-Keep building.
+- Worked on data analysis concepts and tasks
+- Developed analytical and problem-solving skills
+- Completed an IBM & CSRBOX micro-internship
 
 ---
 
-"13" // CONNECT
+🎓 Education
 
-<div align="center">🌐 Portfolio
+🎓 Bachelor of Technology — Information Technology
 
-<a href="https://yash-portfolio-psi-hazel.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black"/>
-</a>  
+SVKM's Institute of Technology, Dhule
+"2025 — 2028"
 
-💼 LinkedIn
+Currently pursuing B.Tech in Information Technology with interests in:
 
-<a href="https://www.linkedin.com/in/yashbirari2006">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>  
+"Software Development" • "Full-Stack Development" • "AI" • "Cloud Technologies"
 
-💻 GitHub
+Currently in 3rd Year
 
-<a href="https://github.com/Yashbirari2006">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>---
+---
 
-<div align="center">╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   $ echo "Learn. Build. Solve. Improve. Ship."              ║
-║                                                              ║
-║                     🚀 YASH BIRARI                            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+💻 Diploma in Engineering — Information Technology
 
-⭐ Thanks for visiting my profile!
+Government Polytechnic, Jalgaon
+"2022 — 2025"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00141f,100:050505&height=120&section=footer" width="100%"/></div>
+Completed Diploma in Information Technology with a strong foundation in programming, software development, and core computer science concepts.
+
+83.75% — First Class With Distinction
+
+---
+
+🏫 Maharashtra SSC
+
+A.B. Boys High School, Chalisgaon
+"2021 — 2022"
+
+92.60% — First Class With Distinction
+
+---
+
+🌱 Currently Learning
+
+Data Structures & Algorithms
+            ↓
+     Full-Stack Development
+            ↓
+      Backend Development
+            ↓
+      AI & Generative AI
+            ↓
+      Cloud Technologies
+            ↓
+     Modern Software Practices
+
+---
+
+🎯 2026 Goals
+
+- [ ] Strengthen Data Structures & Algorithms
+- [ ] Build production-quality full-stack applications
+- [ ] Improve backend development skills
+- [ ] Explore AI-powered applications
+- [ ] Learn more about cloud technologies
+- [ ] Contribute to open-source projects
+- [ ] Participate in more hackathons
+- [ ] Build impactful real-world projects
+- [ ] Continue growing as a developer and technical leader
+
+---
+
+🤝 Let's Collaborate
+
+I'm open to collaborating on:
+
+- 🌐 Full-Stack Applications
+- ☕ Java Projects
+- 🐍 Python Projects
+- 🤖 AI-powered Applications
+- ⚙️ Backend Development
+- 🌍 Open-Source Projects
+- 🚀 Hackathon Projects
+- 💡 Innovative Real-World Solutions
+
+---
+
+📫 Connect With Me
+
+<p align="center"><a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a><a href="https://linkedin.com/in/yashbirari2006">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:yashbirari29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/Yashbirari2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></p>---
+
+💭 Developer Mindset
+
+«Learn • Build • Lead»
+
+I believe in learning continuously, building consistently, and using technology to turn ideas into meaningful solutions.
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p><p align="center">
+  <i>Let's build something meaningful together 🚀</i>
+</p>
