@@ -1,93 +1,130 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00141f,100:00D9FF&height=220&section=header&text=YASH%20BIRARI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=750&lines=%24+whoami+%3E+Yash+Birari;%24+status+%3E+Building+%26+Learning;%24+focus+%3E+Java+%7C+DSA+%7C+Development;%24+explore+%3E+AI+%7C+Web3+%7C+Emerging+Tech;%24+mission+%3E+Turn+Ideas+Into+Real+Solutions" alt="Typing SVG"/><br/><a href="https://yash-portfolio-psi-hazel.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black"/>
-</a><a href="https://www.linkedin.com/in/yashbirari2006">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/Yashbirari2006">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><br/><br/>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Yashbirari2006&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/></div>---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=230&section=header&text=Hi%20There,%20I'm%20Yash%20👋&fontSize=40&fontColor=FF6B00&fontAlignY=36&animation=fadeIn&desc=Software%20%26%20Full%20Stack%20Developer%20|%20B.Tech%20IT&descAlignY=53&descSize=18&descColor=E6E6E6"/>
 
-">_ TERMINAL"
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=23&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student+%7C+Diploma+in+IT;Full+Stack+%2B+AI+Application+Developer;Building+LegalEase+%F0%9F%9A%A9+AI+Contract+Analyzer;Open+to+Open-Source+Collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  YASH@GITHUB                                                        │
-│  ────────────────────────────────────────────────────────────────    │
-│                                                                      │
-│  $ whoami                                                            │
-│  └─> B.Tech Information Technology Student                           │
-│                                                                      │
-│  $ role                                                              │
-│  └─> Developer • Java Learner • DSA Enthusiast                       │
-│                                                                      │
-│  $ location                                                          │
-│  └─> India 🇮🇳                                                       │
-│                                                                      │
-│  $ current_status                                                    │
-│  └─> [ ONLINE ] Learning • Building • Solving                        │
-│                                                                      │
-│  $ mission                                                            │
-│  └─> Build useful software and become a better problem solver.       │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+<img src="https://komarev.com/ghpvc/?username=Yashbirari2006&color=FF6B00&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Yashbirari2006?label=Followers&style=flat-square&color=FF6B00" />
 
----
+<a href="https://yash-portfolio-psi-hazel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/yashbirari2006"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yashbirari29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Yashbirari2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-"01" // ABOUT ME
+</div>
 
-public class YashBirari {
+<br/>
 
-    String role = "B.Tech IT Student";
-    String primaryFocus = "Java Development";
-    String learning = "Data Structures & Algorithms";
-    String exploring = "AI, Web3 & Emerging Technologies";
+## 🧭 About Me
 
-    String[] interests = {
-        "Software Development",
-        "Problem Solving",
-        "Real-World Projects",
-        "AI-powered Applications",
-        "Web Development"
-    };
+```yaml
+whoami: Yash Birari
+education: B.Tech in Information Technology (after Diploma in IT)
+role: Software / Full Stack Developer
+currently_building: LegalEase — AI-powered contract red-flag detector
+learning: DSA · AI/ML · Scalable System Design
+collab_interests: Python · JavaScript · AI apps · Full Stack · Backend
+status: shipping something new, always
+```
 
-    boolean isLearning = true;
-    boolean isBuilding = true;
+- 🎯 Pursuing **B.Tech in Information Technology**, driven by problem-solving and building real-world applications
+- 🔭 Currently building **LegalEase** — an AI contract analyzer that flags risky clauses in legal documents
+- 🌱 Currently deep-diving into **DSA, AI technologies**, and scalable system design
+- 🤝 Open to collaborating on **Python / JS / AI / Full Stack / Backend** open-source projects
+- 💬 Always down to talk hackathons, AI innovations, Android dev, or system design
+- ⚡ Fun fact: hackathons are basically my caffeine
 
-    String mindset() {
-        return "Learn → Build → Solve → Improve → Repeat";
-    }
-}
+<br/>
 
-🎓 Pursuing B.Tech in Information Technology
+## 🛠️ Tech Arsenal
 
-☕ Currently strengthening Java & DSA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,nextjs,tailwind,php,django,mysql,androidstudio,firebase,git,github,figma,vscode&theme=dark&perline=10" />
+</p>
 
-🧠 Interested in problem solving and software development
+<div align="center">
 
-🤖 Exploring AI-powered applications
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6B00?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-FF6B00?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android%20Dev-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-⛓️ Exploring Web3 & emerging technologies
+</div>
 
-🚀 Building projects that solve practical problems
+<br/>
 
----
+## 📊 GitHub Analytics
 
-"02" // TECH ARSENAL
+<div align="center">
 
-💻 Programming Languages
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=E6E6E6&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=E6E6E6" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript" height="50"/>
-</p>"Java" • "Python" • "JavaScript"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashbirari2006&theme=radical&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" />
 
----
+</div>
 
-🌐 Web Development
+<br/>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" height="50"/>
-</p>"HTML" • "CSS" • "JavaScript" • "React" • "Node.js" • "APIs"
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yashbirari2006&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbirari2006&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B00&line=FF6B00&point=E6E6E6" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yashbirari2006/Yashbirari2006/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+> ⚙️ **One-time setup needed** — this animated snake regenerates from your real contribution graph via a GitHub Action. See setup note at the bottom of this reply.
+
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Yashbirari2006/LegalEase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yashbirari2006&repo=LegalEase&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=E6E6E6" />
+</a>
+
+**LegalEase** — AI-powered contract red-flag detector that scans rental & legal agreements to catch risky clauses before you sign.
+
+</div>
+
+<br/>
+
+## 💭 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Build Something
+
+<a href="https://yash-portfolio-psi-hazel.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B00?style=flat-square" /></a>
+<a href="https://www.linkedin.com/in/yashbirari2006"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=flat-square" /></a>
+<a href="mailto:yashbirari29@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-Say_Hi-D14836?style=flat-square" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:0D1117&height=100&section=footer"/>
 
 ---
 
