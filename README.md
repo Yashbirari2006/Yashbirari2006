@@ -1,44 +1,202 @@
-👋 About Me
+<div align="center">👋 Hey, I'm Yash Birari
 
-🎯 Currently pursuing a B.Tech degree in Information Technology after completing a Diploma in Information Technology. Passionate about software development, problem-solving, and building real-world applications.
+"B.Tech IT Student" • "Developer" • "DSA Enthusiast"
 
-💻 Skilled in C, C++, Python, Java, JavaScript, PHP, SQL, Django, Android Development, and Full Stack Development. Continuously improving technical expertise through projects, hackathons, and practical learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+%7C+Learning+%7C+Shipping;Java+%7C+Python+%7C+Web+Development;Exploring+AI+%26+Web3;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG" /><br/><a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%9C%A8%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/yashbirari2006">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Yashbirari2006">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><br/><br/>
 
-🤝 Looking to collaborate on open-source projects, especially Python, JavaScript, AI-based applications, Full Stack Development, and backend development projects.
+<img src="https://komarev.com/ghpvc/?username=Yashbirari2006&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" /></div>---
 
-🌱 Currently learning Data Structures & Algorithms, AI technologies, and modern development practices to build scalable and impactful solutions.
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   Yash Birari                                                 │
+│   B.Tech Information Technology Student                      │
+│                                                              │
+│   $ status                                                   │
+│                                                              │
+│   ● Learning                                                  │
+│   ● Building                                                  │
+│   ● Solving                                                   │
+│   ● Improving                                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-💬  Interested in discussing software development, AI innovations, web technologies, Android development, hackathons, and real-world project building.
+🧑‍💻 About Me
 
-⚡ Fun fact: I enjoy building innovative solutions, participating in hackathons, and continuously exploring new technologies to enhance my development skills.
+I'm Yash Birari, a B.Tech Information Technology student passionate about software development, problem solving, and building practical solutions.
 
+- 🎓 B.Tech in Information Technology
+- ☕ Focused on Java Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🐍 Working with Python
+- 🌐 Exploring Web Development
+- 🤖 Exploring AI-powered applications
+- ⛓️ Exploring Web3 & emerging technologies
+- 🚀 Interested in building real-world projects
 
-# 🌐 Socials
+«"Code. Learn. Build. Repeat."»
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashbirari2006)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbirari29@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashbirari2006)
+---
 
+⚡ Tech Stack
 
+💻 Languages
 
-# 💻 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>🌐 Development
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,vercel" />
+</p>🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>🔭 Exploring
+
+"AI" "APIs" "Web3" "Blockchain" "DSA"
+
+---
+
+🚀 Featured Projects
+
+«Things I've built while exploring software development, AI, Web3 and emerging technologies.»
+
+---
+
+⚖️ LegalEase
+
+"AI • FULL STACK"
+
+AI-Powered Legal Assistance Platform
+
+An AI-powered legal assistance platform currently in development, designed to make legal information and document interaction more accessible through intelligent workflows.
+
+Built With
+
+"REACT" "JAVASCRIPT" "AI" "PYTHON" "APIs"
+
+<a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logoColor=black" />
+</a>---
+
+⛓️ Gasless Pioneer
+
+"WEB3 • TEAM PROJECT"
+
+Team-Built Gasless Web3 dApp
+
+A team-built gasless decentralized application developed during Hack With Mumbai 3.0, focused on simplifying blockchain interactions.
+
+Built With
+
+"REACT" "JAVASCRIPT" "BASE SEPOLIA" "UGF" "METAMASK"
+
+<a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D9FF?style=for-the-badge&logoColor=black" />
+</a>---
+
+<div align="center">🌐 Explore all my work
+
+<a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logoColor=black" />
+</a></div>---
+
+📊 GitHub Analytics
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&theme=github_dark&hide_border=true" /></div>---
+
+🔥 Contribution Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=Yashbirari2006&theme=github-dark-blue&hide_border=true" /></div>---
+
+🐍 Contribution Activity
+
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /></div>---
+
+🎯 Current Focus
+
+$ cat current_focus.txt
+
+[+] Java Development
+[+] Data Structures & Algorithms
+[+] Problem Solving
+[+] Full Stack Development
+[+] AI-powered applications
+[+] Real-world projects
+[+] Emerging technologies
+
+---
+
+🧠 Developer Mindset
+
+                    ┌──────────────┐
+                    │    LEARN     │
+                    │              │
+                    │  Concepts    │
+                    │  Technologies│
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    BUILD     │
+                    │              │
+                    │   Projects   │
+                    │     Ideas    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    SOLVE     │
+                    │              │
+                    │     DSA      │
+                    │ Real Problems│
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   IMPROVE    │
+                    │              │
+                    │ Code • Logic │
+                    │   Skills     │
+                    └──────────────┘
+
+---
+
+🌐 Let's Connect
+
+<div align="center"><a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-00D9FF?style=for-the-badge" />
+</a> 
+
+<a href="https://www.linkedin.com/in/yashbirari2006">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a> 
+
+<a href="https://github.com/Yashbirari2006">
+<img src="https://img.shields.io/badge/💻%20GITHUB-Follow-181717?style=for-the-badge&logo=github" />
+</a></div>---
+
+<div align="center">┌───────────────────────────────────────────────┐
+│                                               │
+│   > Keep learning.                            │
+│   > Keep building.                            │
+│   > Keep solving.                             │
+│   > Keep shipping. 🚀                         │
+│                                               │
+└───────────────────────────────────────────────┘
+
+⭐ Thanks for visiting my profile!
+
+</div>
