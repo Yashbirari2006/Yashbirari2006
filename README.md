@@ -1,446 +1,353 @@
----
+<!-- ========================================================= -->
+
+<!--                 ANIMATED INTRO                            -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=I+build+things+that+solve+real+problems.;Full-Stack+%2B+AI+%2B+Software+Engineering.;Always+learning.+Always+building.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=BUILDING+%E2%9A%A1;SOLVING+PROBLEMS+%F0%9F%A7%A0;EXPLORING+AI+%F0%9F%A4%96;CREATING+REAL-WORLD+SOFTWARE+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_BUILDING-REAL--WORLD_PROJECTS-8B5CF6?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🧠_LEARNING-DSA_%2B_AI-06B6D4?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀_EXPLORING-CLOUD_%2B_OPEN_SOURCE-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-F97316?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+
+<!--                 QUICK INTRO                                -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+## 👋 Yash Birari
+
+**B.Tech IT • Full-Stack Developer • Problem Solver**
+
+`React` · `Node.js` · `Java` · `Python` · `PostgreSQL` · `AI`
+
+<br/>
+
+<a href="https://yash-portfolio-psi-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/yashbirari2006">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yashbirari29@gmail.com">
+<img src="https://img.shields.io/badge/✉️%20CONTACT-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## `01 / About Me`
-
-### Hey, I'm Yash 👋
-
-I'm a **3rd-year B.Tech Information Technology student** from Maharashtra, India, interested in **Software Engineering, Full-Stack Development, AI and problem solving**.
-
-I like taking an idea from:
-
-**`Problem → Idea → Architecture → Code → Product`**
-
-My focus isn't just on making something work. I'm working toward understanding **why it works, how it scales, and how it can solve a real problem.**
-
-Currently, I'm spending most of my time improving my **DSA fundamentals**, building **full-stack applications**, and exploring how **AI can make software more intelligent and useful**.
-
-<br/>
+# ⚡ `what_i_build`
 
 <div align="center">
-
-### `BUILDING THE FUTURE, ONE PROJECT AT A TIME.`
-
-</div>
-
----
-
-## `02 / What I Do`
 
 <table>
 <tr>
-<td width="33%" align="center">
+
+<td align="center" width="25%">
 
 ### 💻
 
-### Full-Stack
+**FULL STACK**
 
-Build modern web applications from **frontend to backend**.
-
-`React`
-`Node.js`
-`PostgreSQL`
+React
+Node.js
+PostgreSQL
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="25%">
 
 ### 🧠
 
-### Problem Solving
+**DSA**
 
-Improving algorithmic thinking through **DSA & pattern-based learning**.
-
-`Java`
-`DSA`
-`Algorithms`
+Algorithms
+Problem Solving
+Java
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="25%">
 
 ### 🤖
 
-### AI Exploration
+**AI**
 
-Exploring practical ways to integrate **AI into real-world applications**.
-
-`Python`
-`AI/ML`
-`APIs`
+AI Applications
+Python
+ML Exploration
 
 </td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**CLOUD**
+
+Cloud
+Docker
+DevOps
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 `featured_projects`
+
+<div align="center">
+
+### Things I'm building & experimenting with
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛡️ AI Food Safety Intelligence
+
+**AI × Full Stack**
+
+Risk prediction, inspection prioritization, SLA intelligence & hotspot analysis.
+
+<br/>
+
+`React` `Node.js` `PostgreSQL` `AI`
+
+<br/>
+
+</td>
+
+<td width="50%">
+
+### ⚖️ LegalEase AI
+
+**AI × Legal Tech**
+
+Exploring AI-powered assistance for making legal information easier to access.
+
+<br/>
+
+`React` `Node.js` `AI`
+
+<br/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Samanvay Portal
+
+**Government-Tech × AI**
+
+Connecting problems, government validation, universities, teams and industry.
+
+<br/>
+
+`React` `Node.js` `PostgreSQL`
+
+<br/>
+
+</td>
+
+<td width="50%">
+
+### ⛓️ Gasless Pioneer
+
+**Web3 × Blockchain**
+
+Exploring a smoother user experience for decentralized applications.
+
+<br/>
+
+`JavaScript` `Web3` `Blockchain`
+
+<br/>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## `03 / Tech Arsenal`
+# 🧰 `tech_stack`
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,typescript,html,css,react,vite,tailwind,nodejs,express,django,postgresql,git,github,docker,vscode,linux" />
 
 <br/><br/>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
-
-<br/><br/>
-
-### Backend • Database • Tools
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgresql,git,github,docker,vscode" />
-
-<br/><br/>
-
-### Exploring
-
-<img src="https://skillicons.dev/icons?i=tensorflow,gcp,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=550&lines=Learning+%E2%86%92+Building+%E2%86%92+Improving;AI+%2B+Full-Stack+%2B+DSA;Always+exploring+what%27s+next..." />
 
 </div>
 
 ---
 
-## `04 / Things I've Built`
+# 🧠 `problem_solving`
 
 <div align="center">
 
-### Not just projects. Experiments in solving real problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=ARRAYS+%E2%86%92+HASHING+%E2%86%92+TWO+POINTERS;SLIDING+WINDOW+%E2%86%92+LINKED+LIST;STACK+%E2%86%92+QUEUE+%E2%86%92+BINARY+SEARCH;TREES+%E2%86%92+GRAPHS+%E2%86%92+DP" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Algorithms-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-06B6D4?style=flat-square"/>
 
 </div>
 
-<br/>
-
-### 🛡️ AI-driven Food Safety Intelligence
-
-**Risk Prediction • Proactive Enforcement • SLA Intelligence**
-
-A full-stack system exploring how an **AI-driven intelligence layer** can support food-safety workflows.
-
-The system focuses on:
-
-`Complaint → Validation → Risk Assessment → Inspection → Sample Tracking → Lab → Enforcement → SLA → Predictive Intelligence`
-
-**What makes it interesting?**
-
-Instead of claiming to replace existing food-safety systems, the project explores how **AI-driven risk intelligence, prioritization and predictive insights** can complement existing workflows.
-
-**Stack:**
-`React` `Node.js` `Express` `PostgreSQL` `AI/ML`
-
-<br/>
-
 ---
 
-### ⚖️ LegalEase AI
-
-**AI × Legal Technology**
-
-An AI-powered legal assistance concept designed to make interaction with complex legal information more accessible.
-
-The project explores the intersection of:
-
-`AI → Information → User Experience → Legal Assistance`
-
-**Stack:**
-`React` `Node.js` `AI` `REST APIs`
-
-<br/>
-
----
-
-### 🌐 Samanvay Portal
-
-**Connecting Problems → People → Projects → Impact**
-
-A platform concept designed to connect **citizens, government validation, universities, student teams and industry**.
-
-```text
-Real-world Problem
-        ↓
-    AI Analysis
-        ↓
-Government Validation
-        ↓
-University / Team Matching
-        ↓
-    Development
-        ↓
-Industry Collaboration
-        ↓
-     Deployment
-        ↓
-       Impact
-```
-
-**Stack:**
-`React` `Node.js` `PostgreSQL` `JWT` `AI`
-
-<br/>
-
----
-
-### ⛓️ Gasless Pioneer
-
-**Web3 × Better Developer Experience**
-
-A blockchain project exploring ways to reduce the friction created by transaction fees and make decentralized applications easier to interact with.
-
-**Stack:**
-`JavaScript` `Web3` `Blockchain` `Smart Contracts`
-
----
-
-## `05 / How I Learn`
+# 🏆 `experience`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Understand+the+problem.;Find+the+pattern.;Build+the+solution.;Break+it.;Debug+it.;Understand+it+again." />
+<table>
+<tr>
 
-</div>
+<td align="center" width="50%">
 
-<br/>
+### 👨‍💻 Python Full-Stack Intern
 
-I'm currently following a **pattern-based DSA journey**.
+**Passion Software Solution**
 
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Hashing
-  ↓
-Two Pointers
-  ↓
-Sliding Window
-  ↓
-Linked List
-  ↓
-Stack / Queue
-  ↓
-Binary Search
-  ↓
-Trees
-  ↓
-Graphs
-  ↓
-Recursion
-  ↓
-Backtracking
-  ↓
-Dynamic Programming
-```
+`Python` · `Django` · `Full Stack`
 
-My goal is simple:
+</td>
 
-> **Don't memorize the solution. Learn to recognize the pattern.**
+<td align="center" width="50%">
 
----
-
-## `06 / Experience`
-
-### 👨‍💻 Python Full-Stack Developer Intern
-
-**Passion Software Solution · Jalgaon**
-
-Worked with **Python/Django** and gained practical exposure to full-stack web application development.
-
-`Python` `Django` `Web Development`
-
----
-
-### 📊 Data Analytics Micro-Internship
+### 📊 Data Analytics Intern
 
 **CSRBOX × IBM**
 
-Gained exposure to data analytics concepts and practical data-oriented workflows.
+`Analytics` · `Data` · `Python`
 
-`Data Analytics` `Python` `IBM`
+</td>
 
----
+</tr>
+</table>
 
-## `07 / Developer Community`
+<br/>
 
 ### 🚀 Apex Coding & Development Club
 
 **Founding Team Member & Technical Team Co-Lead**
 
-Working on the technical side of student developer initiatives, workshops and project activities.
-
-One of the things I enjoy most is helping turn an idea into something students can actually **use, learn from and experience**.
-
----
-
-## `08 / Beyond Code`
-
-<div align="center">
-
-| 🧩 Problem Solving |      🚀 Hackathons      |     🎤 Community    |
-| :----------------: | :---------------------: | :-----------------: |
-|  DSA & Algorithms  |    Rapid Prototyping    |      Workshops      |
-|  Logical Thinking  |     Team Development    |   Technical Events  |
-|    Optimization    | Building Under Pressure | Student Initiatives |
+`Technical Leadership` · `Workshops` · `Community`
 
 </div>
 
-<br/>
-
-I enjoy environments where there is a real problem, limited time, and a team trying to build something meaningful.
-
-That's one reason I enjoy **hackathons and collaborative development**.
-
 ---
 
-## `09 / GitHub`
+# 📊 `github_activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=06B6D4&text_color=94A3B8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashbirari2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=CBD5E1" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=94A3B8" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashbirari2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1" width="42%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Yashbirari2006&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=06B6D4" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Yashbirari2006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=06B6D4" width="65%"/>
 
 </div>
 
 ---
 
-## `10 / My Current Stack`
+# 🌐 `developer_journey`
 
 <div align="center">
 
-```text
-                    ┌──────────────┐
-                    │  PROBLEM     │
-                    └──────┬───────┘
-                           ↓
-                 ┌──────────────────┐
-                 │   DSA / LOGIC    │
-                 └────────┬─────────┘
-                          ↓
-            ┌──────────────────────────┐
-            │      FULL-STACK          │
-            │ React • Node • PostgreSQL│
-            └────────────┬─────────────┘
-                         ↓
-                 ┌───────────────┐
-                 │   AI / ML     │
-                 └───────┬───────┘
-                         ↓
-                  ┌─────────────┐
-                  │    CLOUD    │
-                  └──────┬──────┘
-                         ↓
-                 ┌───────────────┐
-                 │ REAL PRODUCT  │
-                 └───────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=700&lines=DSA+%F0%9F%A7%A0;FULL--STACK+%F0%9F%92%BB;AI+%F0%9F%A4%96;CLOUD+%E2%98%81%EF%B8%8F;OPEN+SOURCE+%F0%9F%8C%8D;SOFTWARE+ENGINEERING+%F0%9F%9A%80" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashbirari2006&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-## `11 / Currently Exploring`
+# 💫 `currently`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DSA-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_%2F_ML-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLOUD-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPEN_SOURCE-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20DSA-LEARNING-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20AI-EXPLORING-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20CLOUD-LEARNING-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20OPEN%20SOURCE-EXPLORING-F97316?style=for-the-badge"/>
+
+<br/><br/>
+
+### `Learning today → Building tomorrow`
 
 </div>
 
-<br/>
-
-```text
-2026
-│
-├── Strengthen DSA
-├── Build better full-stack systems
-├── Learn AI / ML fundamentals
-├── Participate in hackathons
-└── Start contributing to open source
-        │
-        ↓
-2027
-│
-├── Advanced DSA
-├── AI + Full-Stack applications
-├── Cloud & DevOps
-├── Open Source / GSoC
-└── Software Engineering Internship
-        │
-        ↓
-2028
-│
-└──────────────→ SOFTWARE ENGINEER 🚀
-```
-
 ---
 
-## `12 / Let's Build`
+# 🤝 `let's_connect`
 
 <div align="center">
 
-### Have an interesting idea?
-
-### Let's turn it into something real. ⚡
+### 💡 Got an idea? Let's build something.
 
 <br/>
 
 <a href="https://yash-portfolio-psi-hazel.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
-
 <a href="https://linkedin.com/in/yashbirari2006">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yashbirari29@gmail.com">
-<img src="https://img.shields.io/badge/SAY%20HELLO-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-`Internships` · `Hackathons` · `Collaborations` · `Open Source`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+%F0%9F%91%8B;Keep+learning.+Keep+building.;See+you+in+the+next+commit+%F0%9F%9A%80" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Keep+learning.+Keep+building.;See+you+in+the+next+commit+%F0%9F%9A%80" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:312e81,55:4f46e5,75:7c3aed,100:06b6d4&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:312e81,50:4f46e5,75:7c3aed,100:06b6d4&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
