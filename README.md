@@ -1,4 +1,4 @@
-# Yash Birari — animated GitHub profile
+# Yash Birari
 
 <img src="assets/hero.svg?v=1" alt="Yash Birari — hero" width="100%" />
 
